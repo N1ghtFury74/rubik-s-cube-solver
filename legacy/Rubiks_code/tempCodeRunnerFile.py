@@ -1,1 +1,0 @@
-reversed_moves = list(reversed(moves))
